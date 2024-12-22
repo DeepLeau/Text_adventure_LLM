@@ -65,29 +65,6 @@ To run the game locally, you need:
 
 ---
 
-## Future Enhancements
-
-Planned features include:
-
-- Voice acting for key narrative segments.
-- Additional locations and subplots for deeper immersion.
-- Advanced interrogation system powered by AI chatbots.
-- Multiplayer mode for collaborative investigation.
-
----
-
-## Contributing
-
-We welcome contributions!
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add feature-name'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
