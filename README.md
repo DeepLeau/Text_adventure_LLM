@@ -68,11 +68,3 @@ To run the game locally, you need:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-Special thanks to:
-- The open-source community for tools like WebGPU and Hugging Face Transformers.
-- Beta testers who helped refine the gameplay mechanics.
