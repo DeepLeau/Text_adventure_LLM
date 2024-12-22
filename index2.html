@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadows of the Prairie: The Governor's Murder</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-image: url('assets/nebraska_background.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <h1>Shadows of the Prairie: The Governor's Murder</h1>
+        <div id="setup-container">
+            <div id="loading-status" style="text-align: center; margin: 20px; font-size: 18px; color: gray;">
+                <!-- Les messages de statut seront affichés ici -->
+            </div>
+            <button id="generate-story">Play</button>
+        </div>
+        <div id="game-container" style="display: none;">
+            <div id="history-container">
+                <h2>Logs</h2>
+                <ul id="history-list">
+                    <!-- Résumés et choix seront affichés ici -->
+                </ul>
+            </div>
+            <div id="adventure-container">
+                <p id="status-text" style="display: none; font-style: italic; color: gray;">Generating text...</p>
+                <p id="story">
+                    <!-- Le scénario généré apparaîtra ici -->
+                </p>
+                <div id="choices-container">
+                    <!-- Les choix générés apparaîtront ici -->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script type="module" src="script2.js"></script>
+    <audio id="background-music" src="assets/background.m4a" loop autoplay></audio>
+</body>
+</html>
