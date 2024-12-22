@@ -25,6 +25,7 @@ Welcome to **Shadows of the Prairie**, a narrative-driven detective game set in 
 - Multiple-choice decision-making with meaningful consequences.
 - Procedurally generated subplots for replayability.
 - Support for WebGPU for high-performance text generation.
+- Immersive sound effect
 
 ---
 
