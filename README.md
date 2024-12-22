@@ -12,8 +12,6 @@ Welcome to **Shadows of the Prairie**, a narrative-driven detective game set in 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Gameplay Mechanics](#gameplay-mechanics)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
