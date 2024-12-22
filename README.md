@@ -1,6 +1,8 @@
 
 # Detective Game: Shadows of the Prairie
 
+[![MasterHead](detective_game.png)](https://github.com/DeepLeau/rpg_llm/blob/main/detective_game.png)
+
 Welcome to **Shadows of the Prairie**, a narrative-driven detective game set in the snowy plains of 18th century Nebraska. As Detective James O'Connor, you must unravel the mystery surrounding the death of Governor James Madison.
 
 ---
